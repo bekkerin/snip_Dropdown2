@@ -78,8 +78,8 @@ public class ColorChanger : MonoBehaviour
         cubeRenderer.material.color = color;
     }
 }
+```
 
----
 
 ## 🧩 Step 4: Hook Up the UI in Inspector
 
